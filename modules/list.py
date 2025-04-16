@@ -32,8 +32,7 @@ print(super_list[0:], flush=True)
 super_list[:5]
 super_list[:4+1]
 print(super_list[0::])
-
-
+print(super_list)
 
 
 
